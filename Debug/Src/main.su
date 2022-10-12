@@ -1,0 +1,2 @@
+../Src/main.c:28:5:main	16	static
+../Src/main.c:45:6:SysClock_init	4	static
